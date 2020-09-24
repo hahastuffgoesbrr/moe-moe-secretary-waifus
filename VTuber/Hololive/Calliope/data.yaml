@@ -6,8 +6,8 @@ position: 0
 skinIndex: 0
 
 dialogs:
-  - audio: audio/could_you_rip_pls.wav
-    dialog: Could you please RIP?
+  - audio: audio/haha (audio-extractor.net).mp3
+    dialog: Could you let go of your soul for me?
     event: onClick
     language: en
   - audio: null
