@@ -7,7 +7,7 @@ skinIndex: 0
 
 dialogs:
   - audio: audio/could_you_rip_pls.wav
-    dialog: Could you please RIP?
+    dialog: Hey!
     event: onClick
     language: en
   - audio: null
