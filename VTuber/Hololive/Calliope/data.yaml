@@ -11,7 +11,7 @@ dialogs:
     event: onClick
     language: en
   - audio: null
-    dialog: Good morning {@user.nickname}
+    dialog: Hey, {@user.nickname}
     event: onLogin
     language: en
 
