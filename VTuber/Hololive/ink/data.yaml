@@ -1,13 +1,17 @@
 !!com.kitsunecode.mms.core.entities.WaifuData
 alwaysOnTop: false
 dialogs:
-  - audio: https://raw.githubusercontent.com/KaikyuLotus/moe-moe-secretary-waifus/master/VTuber/Hololive/Calliope/audio/could_you_rip_pls.wav
-    dialog: Could you please RIP?
+  - audio: null
+    dialog: Hey!
     event: onClick
     language: en
   - audio: null
-    dialog: Good morning {@user.nickname}
+    dialog: Good morning {@user.nickname}...
     event: onLogin
+    language: en
+  - audio: null
+    dialog: You there?
+    event: onIdle
     language: en
 floatingEnabled: false
 mirrored: false
