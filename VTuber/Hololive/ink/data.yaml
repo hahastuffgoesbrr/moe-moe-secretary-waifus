@@ -1,0 +1,17 @@
+!!com.kitsunecode.mms.core.entities.WaifuData
+alwaysOnTop: false
+dialogs:
+  - audio: https://raw.githubusercontent.com/KaikyuLotus/moe-moe-secretary-waifus/master/VTuber/Hololive/Calliope/audio/could_you_rip_pls.wav
+    dialog: Could you please RIP?
+    event: onClick
+    language: en
+  - audio: null
+    dialog: Good morning {@user.nickname}
+    event: onLogin
+    language: en
+floatingEnabled: false
+mirrored: false
+position: 1545
+skinIndex: 0
+skins:
+  - skins/main.png
