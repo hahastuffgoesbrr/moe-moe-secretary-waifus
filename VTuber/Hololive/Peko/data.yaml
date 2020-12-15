@@ -6,7 +6,7 @@ position: 0
 skinIndex: 0
 
 dialogs:
-  - audio: null
+  - audio: laugh.mp3
     dialog: HA^HA^HA^HA^HA^!
     event: onClick
     language: en
