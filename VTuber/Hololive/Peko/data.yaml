@@ -1,1 +1,19 @@
+!!com.kitsunecode.mms.core.entities.WaifuData
+alwaysOnTop: false
+floatingEnabled: true
+mirrored: false
+position: 0
+skinIndex: 0
 
+dialogs:
+  - audio: null
+    dialog: HA^HA^HA^HA^HA^!
+    event: onClick
+    language: en
+  - audio: null
+    dialog: Konpeko, {@user.nickname}!
+    event: onLogin
+    language: en
+
+skins:
+  - main.png
